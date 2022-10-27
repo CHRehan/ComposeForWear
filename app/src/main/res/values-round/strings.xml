@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="device_shape">Round Device</string>
+    <string name="hello_world_starter">Hello, Compose World!</string>
+    <string name="trigger_phone_action">triggers phone action</string>
+    <string name="triggers_open_message_action">triggers open message action</string>
+    <string name="messages">Messages</string>
+    <string name="dummy_time">12m</string>
+    <string name="dummy_name">Kim Green</string>
+    <string name="on_my_way">On my way!</string>
+    <string name="meditation_time">5 minute Meditation</string>
+    <string name="meditation_action">triggers meditation action</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="sound">Sound</string>
+</resources>
